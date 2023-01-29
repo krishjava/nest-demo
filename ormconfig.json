@@ -1,0 +1,8 @@
+{
+    "type": "mysql",
+    "username": "root",
+    "password": "root",
+    "database": "trailhead_leaderboard",
+    "entities": [],
+    "synchronize": true
+  }
